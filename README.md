@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 ## Deployment
 
-This section has moved here: [https://cxde-test.com/]
+https://cxde-test.com/
